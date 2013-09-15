@@ -1,3 +1,4 @@
+// My first Github program! Thank you!
 package main;
 
 public class Hello_World {
